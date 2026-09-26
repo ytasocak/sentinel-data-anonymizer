@@ -1,0 +1,4 @@
+id,customer_name,email_address,credit_card_no,phone_no,comments
+1,John Doe,john.doe@example.com,1234-5678-9012-3456,+1-555-0199,Active VIP customer
+2,Alice Smith,alice.s@domain.org,9876 5432 1098 7654,+44 20 7946 0192,Interested in promotions
+3,Bob Johnson,bob_j@coolservice.net,1111222233334444,5553334444,Standard subscription

@@ -1,0 +1,43 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build & compiled directories
+target/
+bin/
+classes/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+.history/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Demo output files
+sample_output_anonymized.csv
